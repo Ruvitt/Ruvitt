@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Ruan, a data analyst in training
-- 👀 I’m interested in games, programing, Data analysis and pixel art
+- 📌 I’m interested in games, programing, Data analysis and pixel art
 - 🌱 I’m currently learning React, figma and python
 - 💫 I’m looking to collaborate on projects!!
-- 📫 Just call me, if you want to help me with the studies!
+- 📫 Just call me, if you want to help me with the studies or colaborate with something!
 
 <div align="center">
   <a href="https://github.com/Rvitorr">
