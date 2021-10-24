@@ -4,10 +4,10 @@
 - 💫 I’m looking to collaborate on projects!!
 - 📫 Just call me, if you want to help me with the studies!
 
-<div>
+<div align="center">
   <a href="https://github.com/Rvitorr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rvitorr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rvitorr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rvitorr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rvitorr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
