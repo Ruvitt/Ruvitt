@@ -1,14 +1,34 @@
 <p align="center">
-  <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" width="1000" src="https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif" />
+  <img alt="Pixel art gatinhos e games" width="1000" src="https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif" />
 <p/>
 
+<h1 align="center">
+  Hi, I’m Ruan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h1>
 
+``` javascript
 
-## 👋 Hi, I’m Ruan
-- 📌 I’m interested in games, programing, Data analysis and pixel art
-- 🌱 I’m currently learning React, figma and python
-- 💫 I’m looking to collaborate on projects!!
-- 📫 If you want to talk/or teach someting to me, just call me in my instagram, i will be very happy!
+const WhoAmI = {
+ pronouns: "he" | "his",
+ user: "Ruan Cordeiro",
+ role: "data analyst/dev",
+ hobbies: [
+   "Reading books",
+   "Studying",
+   "DIY",
+   "Making others happy",
+   "Traveling",
+   "Being up all Night chasing that ONE ERROR..."]
+}
+
+function Dreams() {
+	travelToUSA()
+  maybeCreateSomeAI()
+	startMakingMyGame()
+  
+//more will be added :)
+}
+```
 
 <div align="center">
   <a href="https://github.com/Rvitorr">
