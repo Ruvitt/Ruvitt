@@ -1,13 +1,14 @@
-<p align="center">
-  <img alt="Pixel art gatinhos e games" width="1000" src="https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif" />
-<p/>
 
-<h1 align="center">
-  Hi, I’m Ruan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</h1>
+## Hi, I’m Ruan💫
+
+_Insista, persista, mas nunca desista✨_
+
+## About me
+
+<img align="left" src="https://steamuserimages-a.akamaihd.net/ugc/939456277361245952/06A94DB3F2CBF25A3DCD4773E2C7007DC1EED0AF/?imw=450&impolicy=Letterbox" alt="aesthetic pixel art" width="450" height="420" />
 
 ``` javascript
-
+ 
 const WhoAmI = {
  pronouns: "he" | "his",
  user: "Ruan Cordeiro",
@@ -15,7 +16,7 @@ const WhoAmI = {
  hobbies: [
    "Reading books",
    "Studying",
-   "DIY",
+   "Astronomy",
    "Making others happy",
    "Traveling",
    "Being up all Night chasing that ONE ERROR..."]
