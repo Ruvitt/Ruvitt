@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" />
+  <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" width="1000" src="https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif" />
 <p/>
 
 
