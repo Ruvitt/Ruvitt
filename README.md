@@ -1,8 +1,14 @@
-## 👋 Hi, I’m Ruan, a data analyst in training
+<p align="center">
+  <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif" />
+<p/>
+
+
+
+## 👋 Hi, I’m Ruan
 - 📌 I’m interested in games, programing, Data analysis and pixel art
 - 🌱 I’m currently learning React, figma and python
 - 💫 I’m looking to collaborate on projects!!
-- 📫 Just call me, if you want to help me with the studies or colaborate with something!
+- 📫 If you want to talk/or teach someting to me, just call me in my instagram, i will be very happy!
 
 <div align="center">
   <a href="https://github.com/Rvitorr">
