@@ -46,7 +46,9 @@ function Dreams() {
 <div> 
   <a href="https://www.instagram.com/ru_vitor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ruan-cordeiro-5873a4216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:ruan59333@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+ 
 <div alling="center">
   <a href="https://github.com/Rvitorr">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rvitorr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
