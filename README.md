@@ -15,6 +15,7 @@ const WhoAmI = {
  role: "data analyst/dev",
  hobbies: [
    "Reading books",
+   "Gaming",
    "Studying",
    "Astronomy",
    "Making others happy",
@@ -25,9 +26,10 @@ const WhoAmI = {
 function Dreams() {
 	travelToUSA()
         maybeCreateSomeAI()
-	startMakingMyGame()
+	startMakingMyDreamGame()
+	showToMorePeopleThePowerOfCoding()
   
-//more will be added :)
+//more will be added <3
 }
 ```
 
@@ -51,7 +53,7 @@ function Dreams() {
 
 <div alling="center">
   <a href="https://github.com/Ruvitt">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rvitorr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rvitorr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ruvitt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruvitt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
