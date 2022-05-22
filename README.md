@@ -5,7 +5,7 @@ _Insista, persista, mas nunca desista✨_
 
 ## About me
 
-<img align="left" src="https://steamuserimages-a.akamaihd.net/ugc/939456277361245952/06A94DB3F2CBF25A3DCD4773E2C7007DC1EED0AF/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="aesthetic pixel art" width="410em" height="423em" />
+<img align="left" src="https://steamuserimages-a.akamaihd.net/ugc/939456277361245952/06A94DB3F2CBF25A3DCD4773E2C7007DC1EED0AF/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="aesthetic pixel art" width="410em" height="425em" />
 
 ``` javascript
  
