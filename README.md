@@ -33,11 +33,7 @@ function Dreams() {
 }
 ```
 
-``` python
 
-Print("HEllo world")
-
-```
 
 ## Languages and Tools that I'm Learning to Use: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
@@ -53,8 +49,9 @@ Print("HEllo world")
 ## Connect with me
   
 <div> 
-  <a href="https://www.instagram.com/ru_vitor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ruan-cordeiro-5873a4216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/ru_vitor/" target="_blank">
+	  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ruan-cordeiro-5873a4216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <div alling="center">
