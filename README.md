@@ -16,16 +16,14 @@ const WhoAmI = {
  hobbies: [
    "Reading books",
    "Gaming",
-   "Studying",
    "Astronomy",
    "Making others happy",
    "Traveling",
-   "Being up all Night chasing that ONE ERROR..."]
 }
 
 function Dreams() {
-	travelToUSA()
-        maybeCreateSomeAI()
+	getIntoCollegeInTheUs()
+        CreateAnIA()
 	startMakingMyDreamGame()
 	showToMorePeopleThePowerOfCoding()
   
